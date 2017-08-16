@@ -2,7 +2,7 @@
 ![alt tag](https://user-images.githubusercontent.com/26266974/29377308-0c334206-82ee-11e7-945a-6c186315cb9c.jpeg)
   
 This is a Library for 1-Wire DS18B20 Temperature Sensor setup on Nuvoton Mini58 (ARM Cortex-M0) MCU.  
-version 1.0 this code will work when you setup only one DS18B20 Sensor on your 1-Wire bus.  
+version 1.0 - This code will work when you setup only one DS18B20 Sensor on your 1-Wire bus.  
 
 
 # In this repository
