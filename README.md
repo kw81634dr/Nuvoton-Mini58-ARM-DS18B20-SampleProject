@@ -36,8 +36,8 @@ You will GET REAL Temperature in Celsius Degree about EVERY 0.3 sce.
 (1)e.g. AccessPort,RealTerm(Windows), CoolTerm(Windows/Mac/Linux)
 (2)https://datasheets.maximintegrated.com/en/ds/DS18B20.pdf
 
-//Maxim Integrated and the Maxim Integrated logo are trademarks of Maxim Integrated Products, Inc.  
-//Nuvoton® is a registered trademark of Nuvoton Technology Corporation  
+// Maxim Integrated and the Maxim Integrated logo are trademarks of Maxim Integrated Products, Inc.  
+// Nuvoton® is a registered trademark of Nuvoton Technology Corporation  
 /*
 AMBA, Arm, Arm7, Arm7TDMI, Arm9, Arm11, Artisan, big.LITTLE, Cordio, CoreLink, CoreSight, Cortex, DesignStart, DynamIQ, Jazelle, Keil, Mali, Mbed, Mbed Enabled, NEON, POP, RealView, SecurCore, Socrates, Thumb, TrustZone, ULINK, ULINK2, ULINK-ME, ULINK-PLUS, ULINKpro, µVision, Versatile are trademarks or registered trademarks of Arm Limited (or its subsidiaries) in the US and/or elsewhere. The related technology may be protected by any or all of patents, copyrights, designs and trade secrets. All rights reserved.
 
