@@ -1,5 +1,5 @@
 /******************************************************************************
- * @file     DS18B20LibraryforMini58.c
+ * @file     DS18B20LibraryforMini58.h
  * @version  V1.00
  * $Revision:
  * $Date: 2017/08/17 00:33
