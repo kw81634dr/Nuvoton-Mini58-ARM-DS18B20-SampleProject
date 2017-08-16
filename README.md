@@ -1,4 +1,4 @@
-# DS18B20 temperature sample project for Nuvoton Mini58 MCU
+# DS18B20 temperature project for Nuvoton Mini58 MCU
 ![alt tag](https://user-images.githubusercontent.com/26266974/29377308-0c334206-82ee-11e7-945a-6c186315cb9c.jpeg)
 
 This is a Library for 1-Wire DA18B20 Temperature Sensor setup on Nuvoton Mini58 (ARM Cortex-M0) MCU.
