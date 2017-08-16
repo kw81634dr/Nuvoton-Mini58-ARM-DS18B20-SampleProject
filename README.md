@@ -6,8 +6,8 @@ version 1.0 this code will work when you setup only one DS18B20 Sensor on your 1
 
 
 # In this repository
-In this repository, you will got  
-1. one Main code named "main.c"  
+In this repository, you will got.  
+1. one Main code named "main.c"
 2. one c library code file named "DS18B20LibraryforMini58.c  
 3. one Header file for c library named "DS18B20LibraryforMini58.h  
 
@@ -16,7 +16,7 @@ In this repository, you will got
 
 1. Put these three things into your project. 
 2. If it's possible, get a USB to TTL module for UART debugging. 
-3. UART0 was chooesn as default,P12 for RX0,P13 for TX0,set your wire and Serial terminal(1) up. 
+3. UART0 was chooesn as default,P12 for RX0,P13 for TX0,set your wire and Serial terminal(1) up.   
 (Baudrate:115200, Data Bits:8, Parity:None, Stop Bits:1, Flow Control:None). 
 ![alt tag](https://user-images.githubusercontent.com/26266974/29377247-d3585a48-82ed-11e7-8647-46d2fee6821b.png)
    
