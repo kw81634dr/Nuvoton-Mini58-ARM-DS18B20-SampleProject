@@ -1,43 +1,43 @@
 # DS18B20 Temperature Sensor project for Nuvoton Mini58
 ![alt tag](https://user-images.githubusercontent.com/26266974/29377308-0c334206-82ee-11e7-945a-6c186315cb9c.jpeg)
-
-This is a Library for 1-Wire DS18B20 Temperature Sensor setup on Nuvoton Mini58 (ARM Cortex-M0) MCU.＜/br＞
-version 1.0 this code will work when you setup only one DS18B20 Sensor on your 1-Wire bus.＜/br＞
+  
+This is a Library for 1-Wire DS18B20 Temperature Sensor setup on Nuvoton Mini58 (ARM Cortex-M0) MCU.  
+version 1.0 this code will work when you setup only one DS18B20 Sensor on your 1-Wire bus.  
 
 
 # In this repository
-In this repository, you will got＜/br＞
-1. one Main code named "main.c"＜/br＞
-2. one c library code file named "DS18B20LibraryforMini58.c"＜/br＞
-3. one Header file for c library named "DS18B20LibraryforMini58.h"＜/br＞
+In this repository, you will got  
+1. one Main code named "main.c"  
+2. one c library code file named "DS18B20LibraryforMini58.c  
+3. one Header file for c library named "DS18B20LibraryforMini58.h  
 
 
 # Setup
 
-1. Put these three things into your project
-2. If it's possible, get a USB to TTL module for UART debugging
-3. UART0 was chooesn as default,P12 for RX0,P13 for TX0,set your wire and Serial terminal(1) up
-(Baudrate:115200, Data Bits:8, Parity:None, Stop Bits:1, Flow Control:None)
+1. Put these three things into your project. 
+2. If it's possible, get a USB to TTL module for UART debugging. 
+3. UART0 was chooesn as default,P12 for RX0,P13 for TX0,set your wire and Serial terminal(1) up. 
+(Baudrate:115200, Data Bits:8, Parity:None, Stop Bits:1, Flow Control:None). 
 ![alt tag](https://user-images.githubusercontent.com/26266974/29377247-d3585a48-82ed-11e7-8647-46d2fee6821b.png)
    
 4. Set DS18B20 VCC,DATA and GND wire up, follow the DATASHEET(2),DATA PIN was P25 on MCU as default
 ![alt tag](https://user-images.githubusercontent.com/26266974/29377061-24bc80b8-82ed-11e7-9fef-38ba9c08a1a3.jpg)
 
-5. Download your project code to MCU and Run then look at terminal window
+5. Download your project code to MCU and Run then look at terminal window. 
 
 # Outcome
 You will GET REAL Temperature in Celsius Degree about EVERY 0.3 sce
 ![alt tag](https://user-images.githubusercontent.com/26266974/29377028-107733dc-82ed-11e7-9048-65d22ece3b82.PNG)
 ![alt tag](https://user-images.githubusercontent.com/26266974/29377031-1158d080-82ed-11e7-8c37-bab78bb77bb0.PNG)
 
-# USE AT YOUR OWN RISK
+# # USE AT YOUR OWN RISK #
 
 # Reference
 (1)e.g. AccessPort,RealTerm(Windows), CoolTerm(Windows/Mac/Linux)
 (2)https://datasheets.maximintegrated.com/en/ds/DS18B20.pdf
 
-//Maxim Integrated and the Maxim Integrated logo are trademarks of Maxim Integrated Products, Inc.
-//Nuvoton® is a registered trademark of Nuvoton Technology Corporation
+//Maxim Integrated and the Maxim Integrated logo are trademarks of Maxim Integrated Products, Inc.  
+//Nuvoton® is a registered trademark of Nuvoton Technology Corporation  
 /*
 AMBA, Arm, Arm7, Arm7TDMI, Arm9, Arm11, Artisan, big.LITTLE, Cordio, CoreLink, CoreSight, Cortex, DesignStart, DynamIQ, Jazelle, Keil, Mali, Mbed, Mbed Enabled, NEON, POP, RealView, SecurCore, Socrates, Thumb, TrustZone, ULINK, ULINK2, ULINK-ME, ULINK-PLUS, ULINKpro, µVision, Versatile are trademarks or registered trademarks of Arm Limited (or its subsidiaries) in the US and/or elsewhere. The related technology may be protected by any or all of patents, copyrights, designs and trade secrets. All rights reserved.
 
