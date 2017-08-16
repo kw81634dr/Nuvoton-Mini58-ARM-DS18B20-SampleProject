@@ -12,7 +12,7 @@
 
 /*
 DATA PIN definition. 
-Change it as you want.
+Change it as you want. Default was P25.
 Just remenber don't cover other functional pins you're using.
 */
 #define PINPORT 2
