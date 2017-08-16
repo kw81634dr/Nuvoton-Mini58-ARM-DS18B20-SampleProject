@@ -6,7 +6,7 @@ version 1.0 this code will work when you setup only one DS18B20 Sensor on your 1
 
 
 # In this repository
-In this repository, you will got.  
+In this repository, you will got  
 1. one Main code named "main.c"
 2. one c library code file named "DS18B20LibraryforMini58.c  
 3. one Header file for c library named "DS18B20LibraryforMini58.h  
@@ -26,7 +26,7 @@ In this repository, you will got.
 5. Download your project code to MCU and Run then look at terminal window. 
 
 # Outcome
-You will GET REAL Temperature in Celsius Degree about EVERY 0.3 sce
+You will GET REAL Temperature in Celsius Degree about EVERY 0.3 sce.
 ![alt tag](https://user-images.githubusercontent.com/26266974/29377028-107733dc-82ed-11e7-9048-65d22ece3b82.PNG)
 ![alt tag](https://user-images.githubusercontent.com/26266974/29377031-1158d080-82ed-11e7-8c37-bab78bb77bb0.PNG)
 
