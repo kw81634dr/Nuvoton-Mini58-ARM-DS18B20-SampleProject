@@ -33,7 +33,7 @@ You will GET REAL Temperature in Celsius Degree about EVERY 0.3 sce
 # USE AT YOUR OWN RISK
 
 # Reference
-(1)e.g. RealTerm(Windows), CoolTerm(Windows/Mac/Linux)
+(1)e.g. AccessPort,RealTerm(Windows), CoolTerm(Windows/Mac/Linux)
 (2)https://datasheets.maximintegrated.com/en/ds/DS18B20.pdf
 
 Maxim Integrated and the Maxim Integrated logo are trademarks of Maxim Integrated Products, Inc.
