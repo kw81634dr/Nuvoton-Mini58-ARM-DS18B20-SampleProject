@@ -10,6 +10,11 @@
  * @notice   Use AT YOUR OWN RISK
 *****************************************************************************/
 
+/*
+DATA PIN definition. 
+Change it as you want.
+Just remenber don't cover other functional pins you're using.
+*/
 #define PINPORT 2
 #define PORTBIT 5
 
