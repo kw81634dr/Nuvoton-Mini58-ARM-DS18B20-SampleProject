@@ -2,11 +2,11 @@
  * @file     DS18B20LibraryforMini58.c
  * @version  V1.00
  * $Revision:
- * $Date: 2017/08/17 00:33
+ * $Date:    2017/08/17 00:33
  * @brief    C Library code of Single DS18B20
- *					 Temperature Sensor project for Mini58 MCU.
+ *			 Temperature Sensor project for Mini58 MCU.
  * @note
- *  				 Default DATA pin was set at P25 (GPIO_PIN_ADDR(2,5))
+ *  		 Default DATA pin was set at P25 (GPIO_PIN_ADDR(2,5))
  * @notice   Use AT YOUR OWN RISK
 *****************************************************************************/
 #include <stdio.h>
