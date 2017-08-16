@@ -20,8 +20,8 @@ In this repository, you will got
 (Baudrate:115200, Data Bits:8, Parity:None, Stop Bits:1, Flow Control:None). 
 ![alt tag](https://user-images.githubusercontent.com/26266974/29377247-d3585a48-82ed-11e7-8647-46d2fee6821b.png)
    
-4. Set DS18B20 VCC,DATA and GND wire up, follow the DATASHEET(2),DATA PIN was P25 on MCU as default. 
-  PIN definition was define in Header file.    
+4. Set DS18B20 VCC,DATA and GND wire up, follow the DATASHEET(2),DATA PIN was P25 as default.   
+  PIN definition was defined in Header file.       
 ![alt tag](https://user-images.githubusercontent.com/26266974/29377061-24bc80b8-82ed-11e7-9fef-38ba9c08a1a3.jpg)
 
 5. Download your project code to MCU and Run then look at terminal window.   
