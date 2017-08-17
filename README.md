@@ -30,8 +30,7 @@ In this repository, you will got
 # Outcome
 You will GET REAL Temperature in Celsius Degrees about EVERY 0.3 sce.  
 
-![alt tag](https://user-images.githubusercontent.com/26266974/29377028-107733dc-82ed-11e7-9048-65d22ece3b82.PNG)
-![alt tag](https://user-images.githubusercontent.com/26266974/29377031-1158d080-82ed-11e7-8c37-bab78bb77bb0.PNG)
+![alt tag](https://user-images.githubusercontent.com/26266974/29394670-6a50c1e2-833e-11e7-8dbb-be15804a5c09.PNG)    
 
 # # USE AT YOUR OWN RISK # #
 
