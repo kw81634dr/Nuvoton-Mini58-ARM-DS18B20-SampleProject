@@ -28,7 +28,7 @@ In this repository, you will got
 5. Download your project code to MCU and Run then look at terminal window.   
 
 # Outcome
-You will GET REAL Temperature in Celsius Degrees about EVERY 0.3 sce.  
+You will GET REAL Temperature in Celsius Degrees for about every 0.3 sceonds.  
 
 ![alt tag](https://user-images.githubusercontent.com/26266974/29394670-6a50c1e2-833e-11e7-8dbb-be15804a5c09.PNG)    
 
